@@ -23,3 +23,12 @@ insert into pessoas (nome) values ('Lyon');
 UPDATE pessoas SET ano_nascimento = 1989 WHERE id = 1;
 
 UPDATE pessoas SET mes_nascimento = 4 WHERE id = 1;
+
+CREATE TABLE pessoas (
+	id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    nome VARCHAR(100)
+);
+
+DROP TABLE pessoas;
+
+DROP DATABASE meudb;
