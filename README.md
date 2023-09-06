@@ -1,17 +1,18 @@
-# Minhas consultas SQL diárias
+# Repositório de Queries SQL
 
-Este repositório tem como objetivo armazenar as minhas consultas SQL diárias. Estou usando técnicas novas e aperfeiçoando algumas graças ao curso da Geek University.
+Este repositório foi criado com o propósito de armazenar as queries SQL que utilizo em meu trabalho diário. Estou constantemente aprendendo e aprimorando minhas habilidades graças ao curso oferecido pela Geek University.
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
-Estou usando a linguagem SQL com o sistema de gerenciamento de banco de dados MySQL. E estou usando a interface gráfica do MySQL Workbench.
+- Linguagem SQL
+- Sistema de Gerenciamento de Banco de Dados: MySQL
+- Interface Gráfica: MySQL Workbench
+- Versão do MySQL: 8.0.34
 
-## Versão do MySQL
+## Contato e Colaborações
 
-Estou usando a versão 8.0.34 do MySQL.
+Se você tiver algum conselho, dica ou sugestão de melhorias para as queries ou para este repositório em geral, fique à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/thiagolyon/) ou crie uma nova branch e envie uma solicitação de Pull Request.
 
-## Contato
-
-Caso tenha algum conselho, dica ou pontos de melhorias, por favor entre em contato pelo meu LinkedIN - https://www.linkedin.com/in/thiagolyon/ ou pode criar uma nova branch e solicitar um PR.
+Agradeço por sua colaboração!
 
 Abraços!
