@@ -1,0 +1,11 @@
+SELECT CURDATE() AS 'Data atual';
+
+SELECT CURTIME() AS 'Hora Atual';
+
+SELECT DATE_ADD(CURDATE(), INTERVAL 3 DAY) AS 'Data de vencimento';
+
+SELECT DATE_SUB(CURDATE(), INTERVAL 10 DAY) AS 'Data de matricula';
+
+SELECT DATEDIFF(CURDATE(), DATE_SUB(CURDATE(), INTERVAL 10 DAY)) AS 'Dias em atraso';
+
+SELECT DATE_FORMAT(CURDATE(), '%d/%m/%Y') AS 'Data Atual';
